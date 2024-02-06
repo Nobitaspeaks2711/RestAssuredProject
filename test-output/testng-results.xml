@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-05T15:03:00 IST" name="Default suite" finished-at="2024-02-05T15:03:05 IST" duration-ms="4227">
+    <groups>
+    </groups>
+    <test started-at="2024-02-05T15:03:00 IST" name="Default test" finished-at="2024-02-05T15:03:05 IST" duration-ms="4227">
+      <class name="classDemo.PutPatchDeleteTest">
+        <test-method signature="DeleteTest()[pri:0, instance:classDemo.PutPatchDeleteTest@209da20d]" started-at="2024-02-05T15:03:00 IST" name="DeleteTest" finished-at="2024-02-05T15:03:03 IST" duration-ms="2071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteTest -->
+        <test-method signature="PatchTest()[pri:0, instance:classDemo.PutPatchDeleteTest@209da20d]" started-at="2024-02-05T15:03:03 IST" name="PatchTest" finished-at="2024-02-05T15:03:04 IST" duration-ms="1532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PatchTest -->
+        <test-method signature="PutTest()[pri:0, instance:classDemo.PutPatchDeleteTest@209da20d]" started-at="2024-02-05T15:03:04 IST" name="PutTest" finished-at="2024-02-05T15:03:05 IST" duration-ms="532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PutTest -->
+      </class> <!-- classDemo.PutPatchDeleteTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
